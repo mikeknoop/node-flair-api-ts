@@ -1,8 +1,8 @@
 {
   "name": "flair-api-ts",
-  "version": "0.0.0-development",
+  "version": "0.0.17",
   "description": "A ts-node implementation of the Flair Smart Vent API",
-  "author": "bassrock",
+  "author": "mikeknoop",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bassrock/node-flair-api-ts"
+    "url": "https://github.com/mikeknoop/node-flair-api-ts"
   },
   "bugs": {
-    "url": "https://github.com/bassrock/node-flair-api-ts/issues"
+    "url": "https://github.com/mikeknoop/node-flair-api-ts/issues"
   },
   "release": {
     "branches": [
